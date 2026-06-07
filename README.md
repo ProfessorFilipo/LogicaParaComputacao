@@ -21,6 +21,9 @@ Como este é um projeto baseado em tecnologias Web (HTML/JS), não é necessári
 2. Abra a pasta do projeto.
 3. Clique duas vezes no arquivo `index.html` (ou o nome do arquivo principal) para abri-lo no seu navegador padrão (Google Chrome, Firefox ou Edge são recomendados).
 
+### Como acessar
+- **Website:** [https://filipomor.com/Logicas/arvoresintaticainterativa.html](https://filipomor.com/Logicas/arvoresintaticainterativa.html)
+
 ### Contato
 Este repositório é mantido pelo **Prof. Filipo Novo Mór**.
 
